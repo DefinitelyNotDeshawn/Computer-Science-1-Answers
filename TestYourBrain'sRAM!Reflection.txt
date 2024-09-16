@@ -1,0 +1,1 @@
+it auto randomize the match the picture and cover it to do a game, like a RAM would do

@@ -1,0 +1,3 @@
+Hardware is the physical parts that make up a computee, software is the programs that run on a computer.
+Hardware is manufactured in factories, A software is developed, engineered by software development, mainly by writing computer codes using programming languages.
+A hardware cannot do any task with a software instructing it, A software cannot execute if underlying hardware is not present.

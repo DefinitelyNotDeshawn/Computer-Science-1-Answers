@@ -1,0 +1,6 @@
+cpu
+motherboard
+ram
+rom
+external memory
+main memory
